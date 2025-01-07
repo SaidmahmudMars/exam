@@ -1,0 +1,64 @@
+.Said{
+border: 3px solid red;
+text-align: center;
+border-radius: 49px;
+background-color: dodgerblue; 
+}
+em{
+    color: red;
+}
+ul{
+    padding: 0;
+}
+strong{
+color: green;
+font-size: 30px;
+}
+.nimagap{
+text-align: center;
+background-color: yellow;
+}
+.sher{
+width: 700px;
+height: 500px;
+}
+.sher{
+
+}
+.tigr{
+    
+}
+.text{
+    color: green;
+
+}
+.a{
+width: 1000px;
+
+}
+.b{
+    color: green;
+}
+.f{
+    text-align: center;
+    color: black;
+    background-color: yellow
+}
+.k{
+    text-align: center;
+    color: white;
+    background-color: green;
+    border: 20px solid;
+}
+.l{
+text-align: center;
+color:white;
+background-color: red;
+border: 20px solid;
+}
+.r{
+text-align: center;
+color: white;
+background-color: black;
+border: 20px solid;
+}
